@@ -1,12 +1,13 @@
 body{
-    background-color: black);
+    background-color: black;
     color: rgb(0, 89, 255);
-    font-familly:Arial,sans-serif;
+    font-family: Arial,sans-serif;
 }
 header{
     background-color: rgb(0, 0, 247);
-    color:#4c6875:
-    text-align;feComponentTransferpadding; 30px;
+    color:#4c6875;
+    text-align:center;
+    padding: 30px;
 }
 h1{
     font-size:36px;
@@ -16,5 +17,5 @@ h2{
 }
 p{
     font-size:18px;
-    line-heigtht:1.6;
+    line-height:1.6;
 }

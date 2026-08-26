@@ -6,7 +6,7 @@ margin: 0;
 }
 header{
 background-color: black;
-color: #b64dd6;
+color: #3eb1c0;
 text-align: center;
 padding: 30px;
 }
@@ -28,7 +28,7 @@ margin-top: 20px;
 
 
 nav a {
-color: white;
+color: rgb(221, 133, 230);
 text-decoration: none;
 background-color: #9b4d83;
 padding: 10px 15px;

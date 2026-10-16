@@ -7,12 +7,12 @@
     --cor-superficie:#ffffff;
     --cor-card:#f0bbff;
     --cor-legenda:#555555;
-    --cor-clara:#1100fa;
+    --cor-clara:#872894;
     --cor-rodape:#222222;
 }
 body {
-    background-color: var(--cor-fundo)
-    color: (var(--cor-fundo))
+    background-color: var(--cor-fundo);
+    color: var(--cor-fundo);
     font-family: Arial, sans-serif;
     margin: 0;
 }
@@ -43,9 +43,9 @@ nav {
 
 
 nav a {
-    color: var(--cor-clara)
+    color: var(--cor-clara);
     text-decoration: none;
-    background-color: var(--cor-secundaria);.
+    background-color: var(--cor-secundaria);
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -104,7 +104,7 @@ footer {
 } 
 
 button {
-    background: color: var(--cor-legenda);
+    background-color: var(--cor-legenda);
     color: var(--cor-clara);
     border: none;
     padding: 10px 15px;
